@@ -14,7 +14,7 @@ An Avalanche Subnet (short for subnetwork) is a customizable blockchain network 
 
 ## 'ERC20' Contract Explanation
 
-6. ```solidity
+```solidity
    // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.17;
 
